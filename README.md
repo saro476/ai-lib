@@ -1,2 +1,2 @@
-# Sudoku Solver
-This is a simple sudoku solver with built-in GUI
+# AI Librar
+This is a simple AI Library
