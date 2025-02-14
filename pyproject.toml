@@ -1,5 +1,5 @@
 [project]
-name = "ai-lib"
+name = "saro476-ai-lib"
 version = "0.1.0"
 description = "A simple AI library"
 authors = [
